@@ -1,0 +1,28 @@
+14
+S
+SN
+SP
+SN
+N
+SV
+Det le
+N doigt
+Prep de
+N dieu
+Pro se
+V fourre
+Adv partout
+Punct .
+0->1
+0->5
+0->13
+1->6
+1->7
+1->2
+2->8
+2->3
+3->4
+4->9
+5->10
+5->11
+5->12

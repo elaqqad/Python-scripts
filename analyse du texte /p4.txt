@@ -1,0 +1,64 @@
+32
+S
+SP
+SN
+S
+SN
+SV
+SP
+SN
+SN
+SN
+S
+SV
+Prep avec
+Det l'
+N amour
+Adj maternel
+Punct ,
+Det la
+N vie
+Pro vous
+V fait
+Prep à
+Det l'
+N aube
+Det une
+N promesse
+Rel qu'
+Pro elle
+Adv ne
+V tient
+Adv jamais
+Punct .
+0->1
+0->3
+0->31
+1->12
+1->2
+1->16
+2->13
+2->14
+2->15
+3->4
+3->5
+4->17
+4->18
+5->19
+5->20
+5->6
+5->7
+6->21
+6->8
+8->22
+8->23
+7->9
+7->10
+9->24
+9->25
+10->26
+10->11
+11->27
+11->28
+11->29
+11->30

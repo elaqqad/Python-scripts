@@ -1,0 +1,26 @@
+13
+S
+SN
+SP
+SP
+V laissons
+Det les
+Adj jolies
+N femmes
+Det aux
+N hommes
+Det sans
+N imagination
+Punct .
+0->4
+0->1
+0->2
+0->12
+1->5
+1->6
+1->7
+2->8
+2->9
+2->3
+3->10
+3->11
